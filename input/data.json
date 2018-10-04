@@ -1,0 +1,16 @@
+[
+	{
+		"name": "Glass",
+		"cost": 34
+	},
+	{
+		"name": "Cup",
+		"cost": 55
+	},
+	{
+		"name": "Fork"
+	},
+	{
+		"cost": "A lot"
+	}
+]
